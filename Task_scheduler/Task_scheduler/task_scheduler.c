@@ -38,7 +38,6 @@ typedef struct Stack {
 bool IsQueueEmpty(Queue* queue);
 Queue* InitializeQueue();
 void Enqueue(Queue* queue, Task* task);
-void EnqueueFront(Queue* TaskQueue, Task* TaskToUndo);
 Task* Dequeue(Queue* queue);
 //Function pointers of stack
 Stack* InitializeStack();
@@ -56,6 +55,7 @@ void ViewPendingTasks(Queue* TaskQueue);
 void ViewCompletedTasks(Stack* CompletedTaskStack);
 void freeStack(Stack* stack);
 void freeQueue(Queue* queue);
+void EnqueueFront(Queue* TaskQueue, Task* TaskToUndo);
 
 int main(void)
 {

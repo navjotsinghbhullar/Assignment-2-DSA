@@ -20,7 +20,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
               "RelativeDocumentMoniker": "Task_scheduler\\task_scheduler.c",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Task_scheduler\\Task_scheduler\\task_scheduler.c",
               "RelativeToolTip": "Task_scheduler\\task_scheduler.c",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-23T17:19:08.744Z",
               "EditorCaption": ""
@@ -70,8 +70,7 @@
               "RelativeToolTip": "..\\..\\..\\Downloads\\Stack (1).cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-23T17:22:42.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T17:22:42.2Z"
             },
             {
               "$type": "Document",
