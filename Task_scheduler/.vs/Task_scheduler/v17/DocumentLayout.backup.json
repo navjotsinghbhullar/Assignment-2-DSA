@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\Task_scheduler\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\Assignment-2-DSA\\Task_scheduler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EB1BBD5-4292-44EE-A049-8D3B059A0FF2}|Task_scheduler\\Task_scheduler.vcxproj|C:\\Users\\User\\OneDrive\\Desktop\\Task_scheduler\\Task_scheduler\\task_scheduler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6EB1BBD5-4292-44EE-A049-8D3B059A0FF2}|Task_scheduler\\Task_scheduler.vcxproj|C:\\Users\\User\\OneDrive\\Desktop\\Assignment-2-DSA\\Task_scheduler\\Task_scheduler\\task_scheduler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6EB1BBD5-4292-44EE-A049-8D3B059A0FF2}|Task_scheduler\\Task_scheduler.vcxproj|solutionrelative:Task_scheduler\\task_scheduler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -30,11 +30,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "task_scheduler.c",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Task_scheduler\\Task_scheduler\\task_scheduler.c",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Assignment-2-DSA\\Task_scheduler\\Task_scheduler\\task_scheduler.c",
               "RelativeDocumentMoniker": "Task_scheduler\\task_scheduler.c",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Task_scheduler\\Task_scheduler\\task_scheduler.c",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Assignment-2-DSA\\Task_scheduler\\Task_scheduler\\task_scheduler.c",
               "RelativeToolTip": "Task_scheduler\\task_scheduler.c",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-23T17:19:08.744Z",
               "EditorCaption": ""
@@ -53,7 +53,7 @@
         "Y": 169,
         "Width": 1273,
         "Height": 652,
-        "WindowState": 2
+        "WindowState": 0
       },
       "DocumentGroups": [
         {
@@ -65,9 +65,9 @@
               "DocumentIndex": 2,
               "Title": "Stack (1).cpp",
               "DocumentMoniker": "C:\\Users\\User\\Downloads\\Stack (1).cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Stack (1).cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Stack (1).cpp",
               "ToolTip": "C:\\Users\\User\\Downloads\\Stack (1).cpp",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\Stack (1).cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Stack (1).cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-23T17:22:42.2Z"
@@ -77,9 +77,9 @@
               "DocumentIndex": 1,
               "Title": "Queues.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Downloads\\Queues.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Queues.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Queues.cpp",
               "ToolTip": "C:\\Users\\User\\Downloads\\Queues.cpp",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\Queues.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Queues.cpp",
               "ViewState": "AgIAAOgAAAAAAAAAAAAAAOoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-23T17:21:40.354Z",
