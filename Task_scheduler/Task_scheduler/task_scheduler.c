@@ -178,8 +178,9 @@ void ViewCompletedTasks(Stack* CompletedTaskStack)
 	for (int i = CompletedTaskStack->TopIndex; i >= 0; i--)
 	{
 		printf("%d. Task Name: %s  (Priority: %d)\n", count, CompletedTaskStack->Data[i]->Name, CompletedTaskStack->Data[i]->PriorityLevel);
+		count++;
 	}
-	count++;
+	
 	printf("\n-----------------------------------------------------------------------------------\n");
 }
 
